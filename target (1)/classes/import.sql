@@ -1,0 +1,4 @@
+INSERT INTO TOURS(NAME,DATE,DESCRIPTION,IMAGE,AMOUNT_BOOKED,COMPLETED) VALUES('Meet the Buffalos in the Wild West','07-02-17','Description','https://s-media-cache-ak0.pinimg.com/236x/fe/1f/81/fe1f816b677095d61bb8bdcc9c7cab00.jpg',4,0)
+INSERT INTO TOURS(NAME,DATE,DESCRIPTION,IMAGE,AMOUNT_BOOKED,COMPLETED) VALUES('Taste of Stored Sunshine','10-02-17','Description','https://www.westcorkfood.ie/images/west_cork_food/coolea_cheese04.jpg',4,0)
+INSERT INTO TOURS(NAME,DATE,DESCRIPTION,IMAGE,AMOUNT_BOOKED,COMPLETED) VALUES('Meet the Buffalos in the Wild West','14-02-17','Description','https://s-media-cache-ak0.pinimg.com/236x/fe/1f/81/fe1f816b677095d61bb8bdcc9c7cab00.jpg',4,0)
+INSERT INTO TOURS(NAME,DATE,DESCRIPTION,IMAGE,AMOUNT_BOOKED,COMPLETED) VALUES('Taste of Stored Sunshine','17-02-17','Description','https://www.westcorkfood.ie/images/west_cork_food/coolea_cheese04.jpg',4,0)
